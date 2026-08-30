@@ -53,3 +53,10 @@ The dashboard provides:
 ## 🎯 Project Objective
 
 The goal of this project is to transform inventory data into meaningful business insights that can support better stock management and decision-making.
+
+## 👤 Author
+Chowdary Manju
+
+Aspiring Data Analyst passionate about Excel, Power BI, SQL, and Business Intelligence.
+
+📌 Feel free to explore this project and share your feedback!
